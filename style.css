@@ -32,7 +32,7 @@ body {
     120deg,
     hsl(192, 70%, 51%),
     hsl(136, 65%, 51%)
-  );
+  )
 }
 .hero-section {
   display: flex;
